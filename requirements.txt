@@ -1,0 +1,8 @@
+bcrypt
+cryptography
+psycopg2-binary
+# Opcionales (solo si se usan en entorno de desarrollo):
+# - pyopenssl
+# Notas:
+# - Instala con: pip install -r requirements.txt
+# - En Windows, si psypg2-binary falla, instala build tools o usa una rueda precompilada.
