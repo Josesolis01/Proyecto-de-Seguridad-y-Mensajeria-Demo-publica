@@ -1,4 +1,4 @@
-#Proyecto de Seguridad y Mensajería — Demo pública
+#Proyecto de Seguridad y Mensajería — Demo pública#
 
 - **Resumen**: Repositorio con implementaciones y ejemplos para estudiar seguridad en comunicaciones y mensajería. Contiene servicios de autenticación, mensajería, gestión de sesiones, utilidades criptográficas y ejemplos de clientes/servidores (con y sin TLS). Diseñado como demostración técnica y para uso en entornos de laboratorio.
 
