@@ -90,9 +90,3 @@ Revisa los comentarios al inicio de cada script en `source-code/` para parámetr
 
 ---
 
-Si quieres, puedo:
-- fijar versiones en `requirements.txt` (p. ej. `cryptography>=40.0.0`),
-- añadir un `LICENSE` (MIT) y un encabezado con tu nombre,
-- o traducir este README al inglés.
-
-— README actualizado —
